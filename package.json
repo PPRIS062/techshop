@@ -2,7 +2,7 @@
   "name": "techshop",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://paulinprize.github.io/techshop",
+  "homepage": "https://PPRIS062.github.io/techshop/",
   "type": "module",
   "scripts": {
     "dev": "vite",
